@@ -1,5 +1,5 @@
 #MLNotebook #ML 
-> [!tip] COT Prompts
+> COT Prompts
 > Searched for “Moleskine Smart Notebook how it works technology”
 > 
 > Searched for “Ncode technology smart pen infrared camera how works”
