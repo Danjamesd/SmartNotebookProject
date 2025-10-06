@@ -1,4 +1,3 @@
-#Ml
 ![img](IMG-20251006-WA0018.jpg)
 
 | Month | Focus | Milestones / Mini‑Projects | Recommended Free Resources |
